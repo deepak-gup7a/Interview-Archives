@@ -1,0 +1,13 @@
+Technical Interview: (September 2022.)
+
+There was only 1 round and I attended it in the Amazon office.
+The interview lasted for around 1 hour and I need to solve 2 coding questions. 
+1st coding question: (on strings)
+
+https://www.geeksforgeeks.org/reduce-the-string-by-removing-k-consecutive-identical-characters/
+
+First I told the brute force approach and then the interviewer asked me to optimize it. 
+I gave him the solution using stack, and I was asked to write the code on paper. 
+Then for the second question, he asked me whether I am comfortable with Trees. I said YES, but I was actually not.
+He gave me the question: https://www.geeksforgeeks.org/find-duplicate-subtrees/
+I couldn’t solve it, so he changed the question.
