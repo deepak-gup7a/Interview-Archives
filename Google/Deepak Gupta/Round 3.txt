@@ -1,0 +1,8 @@
+Round 3: Coding round
+
+This was also a coding-based interview round of 45 minutes. This time first interviewer asked me about my self and short description of one of the projects mentioned 
+in my resume. Then he asked me a question related to sliding window maximum approach (but in 2-D matrix kind of). Interviewer was not interested in me writing code but
+wanted to know how I’ll be able to reach the solution. We firstly discussed brute force approach, their time and space complexity. Then he asked me for further 
+optimization, and then so on till we reached to the best complexities. After that I wrote the code in google docs shared with interviewer while explaining each line of 
+code. I ended up doing dry run of my code with given examples and some different test cases. We closed our session by just discussing about worst cases space 
+complexities.
