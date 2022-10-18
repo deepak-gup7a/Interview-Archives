@@ -1,0 +1,5 @@
+Round 1: Programming test 👨‍💻
+
+This was an online coding round with no proctoring. This test had 2 DSA-cum little competitive programing based questions and duration of 60 minutes. Every student had different set of questions. Mine were about tree (BFS traverse) and a dynamic programming question. Questions ranged from medium to hard.
+
+After this coding round, there were resume screening section. Results announced after a week of coding round. Around 31 students were shortlisted for interview process. Next all rounds were held on Google meet platform and google docs (for writing codes).
