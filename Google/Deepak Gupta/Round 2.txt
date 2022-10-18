@@ -1,0 +1,5 @@
+Round 2: Coding round
+
+This was a coding based interview round. Firstly interviewer introduced himself and then ask me to do the same. After that he directly jumped to the question. He asked me three questions back to back and all were just modification of previous one and I was expected to use previous functions/code. Questions were mainly based on array, sorting and hashing. After explaining all approaches (brute force to the most suitable), he asked me to write the code in google docs in any one of language likely java or cpp. This round went on for about 45 minutes.
+
+Just after 15 minutes of this round I got an email from HR for my next round that was going to held with in an hour.
