@@ -11,3 +11,15 @@ I gave him the solution using stack, and I was asked to write the code on paper.
 Then for the second question, he asked me whether I am comfortable with Trees. I said YES, but I was actually not.
 He gave me the question: https://www.geeksforgeeks.org/find-duplicate-subtrees/
 I couldn’t solve it, so he changed the question.
+
+2nd coding question: Then he changed the question to Find the number of permutations of a given pattern in a given string.
+
+My approach was:
+
+Store the frequency of each character in the pattern on a map.
+Traverse the string, like the sliding window technique, and store the frequency of each substring of the pattern’s length.
+Compare the frequencies and if it matches, increase the count of results.
+Update the frequency of the substring for every window.
+The interviewer was quite impressed with my solution and I was asked to write the code for it. We had a small discussion on my projects and also his experience at Amazon.
+
+Result: SELECTED (Got mail after a week)
