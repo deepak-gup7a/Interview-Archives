@@ -31,3 +31,5 @@ Don’t try to think of the best approach, in the beginning, just tell out loud 
 Tell them if you are stuck and they will help you. 
 Think before you say that you are confident in any topic.
 Important: Go through GFG interview experiences as many as possible. This will help you very much for any company interview.
+
+Resources: gfg,w3schools, javatpoint, tutorialspoint, w3resources for SQL practice, Gate smashers, and knowledge gate playlists
