@@ -23,3 +23,11 @@ Update the frequency of the substring for every window.
 The interviewer was quite impressed with my solution and I was asked to write the code for it. We had a small discussion on my projects and also his experience at Amazon.
 
 Result: SELECTED (Got mail after a week)
+
+Tips: 
+
+The only thing matters for this interview is coding questions, nothing else.
+Don’t try to think of the best approach, in the beginning, just tell out loud whatever approach you get.
+Tell them if you are stuck and they will help you. 
+Think before you say that you are confident in any topic.
+Important: Go through GFG interview experiences as many as possible. This will help you very much for any company interview.
