@@ -22,6 +22,29 @@ Compare the frequencies and if it matches, increase the count of results.
 Update the frequency of the substring for every window.
 The interviewer was quite impressed with my solution and I was asked to write the code for it. We had a small discussion on my projects and also his experience at Amazon.
 
+Questions from DBMS, Big Data, and Project:
+
+Tell me something about yourself.
+What do you mean by DBMS and RDBMS?
+What’s the difference between OLAP and OLTP?
+What is a data warehouse?
+You said you got interested in data engineering and analytics have you done any project related to that?
+Which algorithm did you use? Could you have another algorithm?
+Questions from Python:
+
+Which scripting language are you familiar with?
+Check whether a string is a palindrome or not.
+Count the number of vowels in a given string
+Can you explain your code?
+What was the most complex question you did in Python? Code that
+Questions from SQL:
+
+Create any two tables and make primary and foreign keys accordingly by providing the necessary attributes 
+Write SQL query to count the number of employees in the department
+One question on joins
+He wrote one query and asked for the output of it, can’t remember properly but it was based on aggregate functions
+What’s the most complex SQL query you used? Write that
+
 Result: SELECTED (Got mail after a week)
 
 Tips: 
