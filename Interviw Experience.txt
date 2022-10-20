@@ -2,3 +2,9 @@ Interview Experience
 
 Round-1(ONLINE TEST): It was an online test on Hackerrank. There were two questions given and they were of easy-medium difficulty. 
 All the popular programming languages were available to choose from for writing the code.
+
+Round-2(DSA and Problem-Solving round): It lasted about an hour. First I introduced myself and was asked about my current role in the company I work for, then he jumped on to DSA questions. I was asked two questions:-
+
+https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
+https://www.geeksforgeeks.org/remove-all-duplicate-adjacent-characters-from-a-string-using-stack/
+We have finally come up with the most optimal solution for each question. 
