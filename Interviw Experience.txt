@@ -17,3 +17,6 @@ https://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-
 https://www.geeksforgeeks.org/burn-the-binary-tree-starting-from-the-target-node/
 We have finally come up with the most optimal solution for each question. The time was not sufficient for the second question, so 
 didn’t code it just discussed the approach.
+
+Round-4(Managerial Round): It was more of an HR round. Basic questions about myself were asked. We just discussed my current work, 
+technologies I would like to work for etc.
